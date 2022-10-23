@@ -1,10 +1,12 @@
-# Parking tickets
+# Parking tickets (CREDITS: Luis Corales)
+## Objective
+Replicate a Mini-Core project using a selected framework, implement the project locally and deploy it online
+- Heroku deployment: https://tickets-express-react-es.herokuapp.com/
 
-A completely functional clothing store for users to create their account and order some cool shirts!
+## GitHub replicated
+https://github.com/LuisCoralesM/tickets-express-react
 
-Heroku deployment [HERE!](https://parking-tickets-lc.herokuapp.com/)
-
-Made in React and Express
+Made with React and Express
 
 ## Core project
 
